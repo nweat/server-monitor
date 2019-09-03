@@ -1,0 +1,10 @@
+.main {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
+
+.main i {
+  margin-left: auto;
+  margin-right: auto;
+}
